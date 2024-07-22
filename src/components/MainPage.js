@@ -31,7 +31,7 @@ function MainPage() {
           <p>2000</p>
         </div>
         <div className="stat">
-          <h2>Data Transferred in TB (last 30 days)</h2>
+          <h2>Data Transferred in TB <span>(last 30 days)</span></h2>
           <p>12,000</p>
         </div>
       </div>
