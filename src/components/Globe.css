@@ -1,0 +1,36 @@
+.globe-container {
+    /* position: relative; */
+    background-color: #2A2A2B;
+  }
+  
+  .person {
+    width: 20px;
+    height: 20px;
+    background-color: red;
+    border-radius: 50%;
+  }
+
+  .subtract{
+    width: 695px;
+    height: 391px;
+    top: 1642px;
+    left: 373px;
+    gap: 0px;
+    opacity: 0px;
+
+  }
+
+  .globe{
+    width: 599.38px;
+    height: 455.86px;
+    top: 1704px;
+    left: 420px;
+    gap: 0px;
+    opacity: 0px;
+
+  }
+
+  .globe-container img.subtract {
+    z-index: 1; /* Higher z-index brings element closer to front */
+  }
+  
