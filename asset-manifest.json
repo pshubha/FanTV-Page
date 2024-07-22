@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/FanTV-Page/static/css/main.9ac1f673.css",
+    "main.js": "/FanTV-Page/static/js/main.d2b88902.js",
+    "static/js/453.a1cecde2.chunk.js": "/FanTV-Page/static/js/453.a1cecde2.chunk.js",
+    "static/media/globe.svg": "/FanTV-Page/static/media/globe.9a29ac9e630c64340508e4543a6b3799.svg",
+    "static/media/Rectangle5.svg": "/FanTV-Page/static/media/Rectangle5.cde86116976fc3d37138863f885e43d9.svg",
+    "static/media/Rectangle1.svg": "/FanTV-Page/static/media/Rectangle1.8c9331eb83c1985a1e5e938cdf725ce9.svg",
+    "static/media/Rectangle3.svg": "/FanTV-Page/static/media/Rectangle3.05c8aa44e3110fede4816c11bced8f63.svg",
+    "static/media/Rectangle4.svg": "/FanTV-Page/static/media/Rectangle4.a9bfa770c00e848410dfc3b973574d4c.svg",
+    "static/media/Rectangle6.svg": "/FanTV-Page/static/media/Rectangle6.51e2786dc8ca85a9a4774bdb4567f74c.svg",
+    "static/media/Rectangle2.svg": "/FanTV-Page/static/media/Rectangle2.72116bfd51317932504154e59389f3a0.svg",
+    "static/media/Subtract.svg": "/FanTV-Page/static/media/Subtract.f3505a891750a041d2c2f1d2bb72394e.svg",
+    "static/media/coming_soon.svg": "/FanTV-Page/static/media/coming_soon.a61efc3cde8116759987e7e7b4e66548.svg",
+    "static/media/eclipse1.jpg": "/FanTV-Page/static/media/eclipse1.0ca54f98887a4548c3fc.jpg",
+    "static/media/logo.svg": "/FanTV-Page/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/FanTV-Page/index.html",
+    "main.9ac1f673.css.map": "/FanTV-Page/static/css/main.9ac1f673.css.map",
+    "main.d2b88902.js.map": "/FanTV-Page/static/js/main.d2b88902.js.map",
+    "453.a1cecde2.chunk.js.map": "/FanTV-Page/static/js/453.a1cecde2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ac1f673.css",
+    "static/js/main.d2b88902.js"
+  ]
+}
