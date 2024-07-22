@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/FanTV-Page/static/css/main.9ac1f673.css",
+    "main.css": "/FanTV-Page/static/css/main.d36fcb69.css",
     "main.js": "/FanTV-Page/static/js/main.d2b88902.js",
     "static/js/453.a1cecde2.chunk.js": "/FanTV-Page/static/js/453.a1cecde2.chunk.js",
     "static/media/globe.svg": "/FanTV-Page/static/media/globe.9a29ac9e630c64340508e4543a6b3799.svg",
@@ -15,12 +15,12 @@
     "static/media/eclipse1.jpg": "/FanTV-Page/static/media/eclipse1.0ca54f98887a4548c3fc.jpg",
     "static/media/logo.svg": "/FanTV-Page/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/FanTV-Page/index.html",
-    "main.9ac1f673.css.map": "/FanTV-Page/static/css/main.9ac1f673.css.map",
+    "main.d36fcb69.css.map": "/FanTV-Page/static/css/main.d36fcb69.css.map",
     "main.d2b88902.js.map": "/FanTV-Page/static/js/main.d2b88902.js.map",
     "453.a1cecde2.chunk.js.map": "/FanTV-Page/static/js/453.a1cecde2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9ac1f673.css",
+    "static/css/main.d36fcb69.css",
     "static/js/main.d2b88902.js"
   ]
 }
