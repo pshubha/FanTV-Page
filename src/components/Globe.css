@@ -17,7 +17,6 @@
   top: 1642px;
   left: 373px;
   gap: 0px;
-  opacity: 0px;
 }
 
 .globe {
@@ -25,11 +24,10 @@
   top: 65px;
   left: 420px;
   gap: 0px;
-  opacity: 0px;
 }
 
 .globe-container img.subtract {
-  z-index: 1; /* Higher z-index brings element closer to front */
+  z-index: 1;
 }
 
 .globe-section {
